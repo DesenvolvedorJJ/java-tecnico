@@ -1,0 +1,24 @@
+Exercícios práticos de 9 a 13:
+
+9 - Elabore um programa para calcular e mostrar o valor da conversão de uma quantia em dólares para reais. Crie variáveis para guardar o valor da cotação do dólar do dia, o valor em dólares e o valor do resultado da conversão. Use a fórmula: quantiaEmReais = quantiaEmDolares * cotacaoDoDolar 
+Obs: entre aspas duplas
+
+10 - Elabore um programa que calcule e mostre a taxa de consumo em km/l que um carro tem em um deslocamento. Devem ser criadas variáveis para a distância percorrida (em kilômetros), a quantidade de litros consumidos e o valor da taxa de consumo (em km/l). O cálculo é feito pela fórmula: taxaDeConsumo = distancia / litros
+obs: entre aspas simples
+
+11 - Escreva um programa que calcula a área de uma circunferência com raio 12, onde
+PI = 3.1415 e área = PI * r2 e exiba esse resultado entre aspas.
+obs: entre aspas simples
+
+
+12 - Faça um programa e atribua valores para a quantidade e o valor de três produtos,
+no seguinte formato: Quantidadel, Valor1, Quantidade2, Valor2, Quantidade3,
+Valor3. O programa deve calcular esses valores seguindo a fórmula total =
+quantidadel x Valor1 + Quantidade2 x Valor2 + Quantidade3 x Valor3. O valor total
+deve ser apresentado no final da execução do programa.
+
+13 - Faça um programa que receba duas notas de um aluno e seus respectivos pesos,
+calcule e mostre a média ponderada dessas notas.
+mediaPonderada = (nota1*peso1) + (nota2*peso2)
+                 ______________________________
+                        (peso1 + peso2)

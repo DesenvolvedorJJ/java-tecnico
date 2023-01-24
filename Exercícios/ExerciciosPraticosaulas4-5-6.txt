@@ -1,0 +1,10 @@
+1 - Crie um programa que receba quatro valores quaisquer e mostre a média entre 
+eles(arredondado para próximo valor), o somatório entre eles e o percentual 
+de cada um em relação ao somatório.Exiba uma mensagem se o somatório for 
+maior que a média.
+
+2 - Faça um programa que receba o valor de um depósito e o valor da taxa de
+juros. Calcule e mostre o valor do rendimento e o valor total depois do
+rendimento.
+
+Notifique o usuario se o valor passa os mil reais(Utilize condicional composto)

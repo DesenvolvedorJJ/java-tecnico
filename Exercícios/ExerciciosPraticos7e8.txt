@@ -1,0 +1,21 @@
+Exercícios práticos de 7 e 8:
+
+7 - Elabore um programa que usando sequencias de escape mostre na janela do
+
+terminal os seus dados pessoais, conforme exemplo abaixo:
+
+Nome: <mostre seu nome aqui>
+
+Endereço: <mostre seu endere.o aqui>
+
+Telefone: <mostre seu telefone aqui>
+
+
+8 - Elabore um programa que usando sequencias de escape mostre na janela do
+terminal o seguinte texto com a mesma formataçao de espaços  e linhas:
+
+                        Primeira bimestral      Segunda bimestral      Media
+
+LTP                            9,0                     8,0              8,5
+
+Algoritmos                     7,0                     6,0              6,5

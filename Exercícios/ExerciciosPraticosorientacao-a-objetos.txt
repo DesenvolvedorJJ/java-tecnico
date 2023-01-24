@@ -1,0 +1,113 @@
+Exercício Prático(1.0-Orientação a objetos) - Desenvolva a classe conforme as 
+orientações abaixo:
+
+Crie uma classe que represente um objeto do tipo calculadora com os principais 
+atributos: marca, materialFabricacao e com os métodos, set e get para cada atributo 
+e mostrarCalculadora que exibe o valor dos atributos de um objeto calculadora;
+
+Acrescente métodos que realizem as 4 operações básicas entre dois valores passados 
+por parâmetros fornecidos pelo usuário;
+
+Crie uma classe com o método main, crie duas instancias, preencha seus atributos 
+e utilize todos os seus métodos(utilize atribuição).
+
+
+
+Exercício Prático(1.1-Orientação a objetos) - Desenvolva a classe conforme as 
+orientações abaixo:
+
+Crie uma classe que represente um objeto do tipo Lâmpada com os principais atributos: 
+status(boolean), tipo(incandescente, halógenas, fluorescente e led, caso um valor 
+inválido seja selecionado, atribua o valor "tipo desconhecido"),set e get para cada 
+atributo e mostrarEstado que exibe o estado atual de um objeto do tipo lâmpada
+(ligada ou desligada).
+
+Crie os seguintes construtores: Que seja obrigado informar apenas status e status 
+e tipo.
+
+Crie uma classe com o método main, crie duas instancias, preencha seus atributos 
+e utilize todos os seus métodos.
+
+
+Exercício Prático(1.2-Orientação a objetos) - Desenvolva a classe conforme as 
+orientações abaixo:
+
+Crie uma classe chamada Televisao que inclua as seguintes variáveis de instância:
+estado(boolean), volume (tipo int), um canal (tipo int) e uma variável com escopo 
+de classe marca(Padrão Sony).Forneça os seguintes métodos:
+
+- Construtor que inicializa todas as variáveis de
+instância.
+- Construtor que inicializa estado e canal.
+- Forneça  métodos set e um get para todos os atributos.
+
+Sua classe deve prever ações que reflitam a utilização de um objeto televisão 
+no mundo real(Ex. Só é possível mudar de canal com a televisão ligada).
+
+
+Crie uma segunda classe chamada TelevisaoTeste que demonstra o uso de um objeto 
+televisão a ponto de interagir com um usuário.
+
+
+Exercício Prático(1.2.1-Orientação a objetos) - Desenvolva a classe conforme as 
+orientações abaixo:
+
+Crie uma classe chamada Empregado que inclua três variáveis de instância: 
+um primeiro nome (tipo String), um sobrenome (tipo String) e um salário mensal 
+(double). Forneça um construtor que inicializa as três variáveis de instância. 
+Forneça um método set e um get para cada variável de instância. Se o salário mensal 
+não for positivo, não configure seu valor. Escreva um aplicativo de teste chamado 
+EmpregadoTeste que demonstre as capacidades da classe Empregado. Crie dois objetos 
+Empregado e exiba o salário anual de cada objeto. Então dê a cada Empregado um 
+aumento de 10% e exiba novamente o salário anual de cada Empregado.
+
+
+Exercício Prático 1.3 - Orientação a objetos(com Construtores):
+
+Crie uma classe chamada Fatura para que uma loja de suprimentos de informática a 
+utilize para representar uma fatura de um item vendido nela. Uma Fatura deve incluir 
+quatro partes das informações como variáveis de instancia , o número (tipo String), 
+a descrição (tipo String), a quantidade comprada de um item (tipo int) e o preço por 
+item (double). 
+
+Sua classe deve ter um construtor que inicializa as quatro variáveis de instância. 
+Forneça um método set e um get para cada variáveis de instância.
+
+
+Além disso, forneça um método chamado obterValorDaFatura que calcula o valor de 
+fatura (isto é multiplica a quantidade pelo preço por item) e depois retorna esse 
+valor como double. Se a quantidade não for positiva, ela deve ser configurada como 0. 
+Se o preço por item não for positivo, ele deve ser configurado como 0.0. Escreva um 
+aplicativo de teste chamado FaturaTeste que demonstra as capacidades da classe 
+Fatura através de interações com um usuário.
+
+
+Exercício Prático 1.4 - Orientação a objetos(com Construtores):
+
+Ao fazer exercícios físicos, você pode utilizar um monitor de frequência cardíaca 
+para ver se sua frequência permanece dentro de um intervalo seguro sugerido pelos 
+seus treinadores e médicos.
+Segundo a American Heart Association (AHA) 
+(www.americanheart.org/presenter.jhtml?identifier=4736), a fórmula para
+calcular a frequência cardíaca máxima por minuto é 220 menos a idade em anos.
+Sua frequência cardíaca alvo. um intervalo entre 50-85% da sua frequência cardíaca
+máxima.
+ 
+[Observação: essas fórmulas
+são estimativas fornecidas pela AHA. As frequências cardíacas máximas e alvo
+podem variar com base na saúde, capacidade física e sexo da pessoa. Sempre
+consulte um médico ou profissional de saúde qualificado antes de começar ou
+modificar um programa de exercícios físicos.]
+ 
+Crie uma classe chamada FrequenciaCardiaca. Os atributos da
+classe devem incluir o nome, sobrenome e data de nascimento da pessoa 
+(consistindo em atributos separados para mês, dia e ano de nascimento). 
+Sua classe deve ter um construtor que receba esses dados como parâmetros.
+Para cada atributo forneça métodos set e get. A classe também deve incluir um 
+método que calcule e retorne a idade (em anos), um que calcule e retorne a 
+frequência cardíaca máxima e um que calcule e retorne a frequência cardíaca alvo 
+da pessoa. Escreva um aplicativo Java que solicite as informações da pessoa, 
+instancie um objeto da classe FrequenciaCardiaca e imprima as informações a partir 
+desse objeto — incluindo nome, sobrenome e data de nascimento da pessoa — calcule e 
+imprima a idade da pessoa (em anos), seu intervalo de frequência cardíaca máxima e 
+sua frequência cardíaca alvo.

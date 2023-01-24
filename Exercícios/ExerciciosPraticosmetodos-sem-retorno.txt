@@ -1,0 +1,26 @@
+1 - Crie um método sem retorno chamado quadrado que receba como parâmetro um valor
+inteiro, ao final mostre seu valor ao quadrado.
+
+2 - Crie um método sem retorno chamado maior que receba como parâmetro 3 valores
+inteiros, ao final mostre o maior entre eles.
+
+3 - Crie um método sem retorno chamado sexo que receba como parâmetro um caracter
+ao final mostre por extenso se o sexo é masculino, feminino ou desconhecido.
+
+4 - Crie uma nova classe que use os métodos criados a partir de uma estrutura de
+menus para a sua execução.
+
+5 - Crie uma classe chamada tabuada onde a mesma deve conter 4 métodos sem 
+retorno para resolver as 4 operações(soma, subtração, multiplicação e divisão) 
+entre dois valores passados como parâmetro. Em seguida, crie uma classe chamada 
+UsaTabuada que contenha um método main que invoque os métodos diante da escolha 
+do usuário.
+
+
+
+Obs: Deverá ser implementada uma classe com os métodos referentes as questões 1 a 3 
+já a questão 4 será a classe que usará os metodos (1,2,3).
+
+A quinta questão deverá ser duas classes, uma com os métodos e outra que usa.
+
+Ou seja, total de 4 classes, duas com os métodos e duas que usa os métodos.

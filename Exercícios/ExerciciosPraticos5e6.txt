@@ -1,0 +1,16 @@
+Exercícios práticos de 5 e 6:
+
+5. Elabore um programa que declare uma variável e uma constante inteira (int).
+Faça o valor da variável receber o conteúdo da constante, mostre na janela
+do terminal os valores dos dois elementos. Mude o valor da variável e
+mostre novamente.
+
+6. Elabore um programa que declare uma variável do tipo byte. Faça uma
+atribuição a ela com o valor 677. Tente compilar e executar. O que
+acontece? Corrija o programa para que ele possa compilar e executar
+normalmente.
+
+Questão Extra
+Crie uma classe que contenha variáveis para armazenar a data de hoje.
+Mostre-as no seguinte formato DD/MM/AAAA
+Obs: declare as variáveis e atribua valores a elas

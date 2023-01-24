@@ -1,0 +1,16 @@
+Exercícios práticos de 1 a 4:
+
+1 - Elabore um programa que mostre na janela do terminal a frase "Esse é mais um programa feito em Java". 
+
+
+2 - Elabore um programa que mostre na janela do terminal as frases "É possível usar múltiplas linhas" e "em um Terminal Java". Cada frase deve ficar em uma linha diferente. 
+
+
+3 - Elabore um programa que mostre na janela do terminal uma mensagem escolhida por você que deve ter múltiplas linhas. Combine os comandos System.out.println( ) com System.out.print( ). Alterne os comandos, recompile e execute o programa várias vezes. Veja o que acontece quando se usa os dois comandos em um mesmo programa. 
+
+
+4  - Elabore um programa que mostre na janela do terminal os seus dados pessoais, conforme exemplo abaixo: 
+
+Nome: <mostre seu nome aqui> 
+Endereço: <mostre seu endereço aqui> 
+Telefone: <mostre seu telefone aqui>

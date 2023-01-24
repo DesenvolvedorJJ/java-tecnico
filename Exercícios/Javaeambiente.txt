@@ -1,0 +1,55 @@
+1 - A empresa criadora do Java foi a ?
+
+=
+
+2 - O comando___________________ possibilita executar uma aplicação em Java
+
+=
+
+3 - O comando javac possibilita realizar a_______________ de classes escritas em Java.
+
+= 
+
+4 - Em uma aplicação Java todas as classes_______________ necessitam de um método main.
+
+=
+
+5 - Depois de realizado o processo de compilação, é gerado um arquivo de_________________ com a extensão_________________
+
+=
+
+6 - Toda classe executável deve, obrigatoriamente, possuir  o método _______________
+
+=
+
+7 - A linha o método principal possui o formato ________________
+
+= 
+
+8 - Cite 4 benefícios do Java:
+
+=
+
+9 - O que é o JDK e o JRE ?
+
+=
+
+10 - O que a JVM e qual sua principal finalidade ?
+
+= 
+
+11 - Cite e explique quais são as principais fases para o desenvolvimento de aplicação em Java:
+
+=
+
+12 - Quais são as principais plataformas de desenvolvimento da tecnologia Java? quais suas aplicações?
+
+= 
+
+13 - Explique o que é orientação a objetos e quais os principais benefícios que ela traz para o desenvolvimento de sistemas.
+
+= 
+
+14 - Porque a utilização de Java em multiplataforma é muito importante para os programadores?
+
+=
