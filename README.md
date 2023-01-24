@@ -4,19 +4,19 @@ Este repositório foi criado para armazenar códigos de exercícios, feitos em n
 
 ## Assuntos em que os códigos abordam:
 
-Java e ambiente;
-Primeiro programa;
-Variáveis;
-Comandos Básicos;
-Strings;
-Entrada e saída de dados;
-Funções matemáticas;
-Estruturas de controle (seleção);
-Estruturas de Repetição;
-Vetores/arrays;
-Criação de métodos;
-Orientação a objetos;
-Encapsulamento;
-Construtores;
-Herança;
-Polimorfismo.
+* Java e ambiente;
+* Primeiro programa;
+* Variáveis;
+* Comandos Básicos;
+* Strings;
+* Entrada e saída de dados;
+* Funções matemáticas;
+* Estruturas de controle (seleção);
+* Estruturas de Repetição;
+* Vetores/arrays;
+* Criação de métodos;
+* Orientação a objetos;
+* Encapsulamento;
+* Construtores;
+* Herança;
+* Polimorfismo.
