@@ -22,3 +22,9 @@ Este repositório foi criado para armazenar códigos de exercícios, feitos em n
 * Construtores;
 * Herança;
 * Polimorfismo.
+
+## Link para conteúdos em pdf:
+
+Arquivos elaborados por: Professor Wellington Vasconcelos Moraes
+
+[Google Drive](https://drive.google.com/drive/folders/1wIi33iqQwbi5N2pQcyc-LMNFcHCWOyaW?usp=share_link)
