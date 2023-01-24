@@ -2,7 +2,7 @@
 
 # Java Técnico
 
-Este repositório foi criado para armazenar códigos de exercícios, feitos em na linguagem de programação java, realizados em 2022 na turma de linguagens de programação.
+Este repositório é um execício de markdown e foi criado para armazenar alguns conteúdos sobre a linguagem de programação java, elaborados em 2022 na turma I2262TD de linguagens de programação do IFPA campus Belém.
 
 ## Assuntos em que os códigos abordam:
 
