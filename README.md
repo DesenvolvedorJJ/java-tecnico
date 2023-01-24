@@ -23,8 +23,19 @@ Este repositório foi criado para armazenar códigos de exercícios, feitos em n
 * Herança;
 * Polimorfismo.
 
-## Link para conteúdos em pdf:
+### Link para conteúdos em pdf:
 
 Arquivos elaborados por: Professor Wellington Vasconcelos Moraes
 
 [Google Drive](https://drive.google.com/drive/folders/1wIi33iqQwbi5N2pQcyc-LMNFcHCWOyaW?usp=share_link)
+
+
+#### Últimas palavras...
+
+```java
+    public class BoaSorte {
+    public static void main(String args[]) {
+        System.out.print("Bons Estudos :) ");
+        }
+    }
+```
