@@ -4,7 +4,7 @@
 
 Este repositório é um execício de markdown e foi criado para armazenar alguns conteúdos sobre a linguagem de programação java, elaborados em 2022 na turma I2262TD de linguagens de programação do IFPA campus Belém.
 
-## Assuntos que serão abordados:
+## Assuntos que estão sendo abordados:
 
 * Java e ambiente;
 * Primeiro programa;
